@@ -5,3 +5,5 @@ Nicolas tiene 19 años y nacio en Colombia,
  en Florencia - Caqueta.
 
 Esta es su historia.
+
+Su estatura es de 1.67 cm
