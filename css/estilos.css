@@ -30,6 +30,12 @@ body
         font-size:.8em
     }
 
+    #post #teams
+    {
+        width:50px;
+        
+    }
+
     #container
     {
         width:70%;
