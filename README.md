@@ -8,7 +8,8 @@ Un blog increíble
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-* Hehco por mi :3
+* Hecho por mi :3
+*  🤡 🤡 🤡 🤡 🤡 🤡 🤡 🤡 🤡 🤡
 
 
  **Este readme.md es una practica**.
